@@ -4,8 +4,8 @@
 
 
 SUMMARY
-- 2+ years  of experience as DevOps engineer.
-- 8+ years of diverse experience in Linux, Windows, MacOs administration.
+- 3+ years  of experience as DevOps engineer.
+- 12+ years of diverse experience in Linux, Windows, MacOs administration.
 - 3+ years of experience in managing small teams (3-5 peoples)
 - Working knowledge of networks and Internet functionality.
 - Proficient in project management and ticketing system, cloud services, monitoring tools.
